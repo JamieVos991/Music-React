@@ -1,0 +1,9 @@
+.input {
+    margin: 1.5rem;
+    text-align: left;
+    padding: 1rem 2rem;
+    font-size: 100%;
+    position: absolute;
+    width: 37rem;
+    font-family: "Open Sans", sans-serif;
+}

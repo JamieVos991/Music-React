@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    background: linear-gradient(to bottom right,#EEF2E6, #D6CDA4);
+    font-size: 2rem;
+    font-family: sans-serif;
+    height: 100%;
+}
+
+#root {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    gap: 3rem;
+    flex-wrap: wrap;
+    padding-top: 3rem;
+    position: relative;
+    padding-bottom: 3rem;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
